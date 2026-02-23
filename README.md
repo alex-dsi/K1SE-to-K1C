@@ -13,6 +13,9 @@
 6. Винт М3х12 с гайками
 7. Провод AWG-22
 
+Выполните команду в терминале из файла SH.txt и ваш принтер станет K1C.
+После команды сделайте сброс до заводских, чтоб он сам все настроил.
+
 
 To maintain the rigidity of the K1SE, the corners and stitching are not removed. 
 The chain is not used for better filament feed. 
@@ -28,5 +31,8 @@ You will need to purchase the following:
 5. Carbon Filter from K1MAX
 6. M3x12 Screw with Nuts
 7. AWG-22 Wire
+
+Run the command in the terminal from the SH.txt file, and your printer will become a K1C.
+After the command, perform a factory reset so it can configure itself.
 
 
