@@ -1,6 +1,6 @@
 Для сохранения жесткости K1SE уголки и стжяка не снимается.
 Цепь не используется для лучшей подачи нити.
-Это вариант для двух боковых вентиляторов.
+Это вариант для двух боковых вентиляторов или вентилятора и подогревателя камеры Creality.
 Нижние треугольники печатайте вертикально - для жесткости.
 Все печатается на самом принтер из PETG.
 Толщина оргстеккла 3 мм.
@@ -19,7 +19,7 @@
 
 To maintain the rigidity of the K1SE, the corners and stitching are not removed. 
 The chain is not used for better filament feed. 
-This option is for two side fans. 
+This is an option for the two side fans or one fan and heater of camera from Creality.
 Print the bottom triangles vertically for rigidity. 
 Everything is printed directly on the printer using PETG.
 The plexiglass is 3 mm thick.
