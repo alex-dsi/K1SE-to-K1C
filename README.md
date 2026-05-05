@@ -15,7 +15,7 @@
 
 Выполните команду в терминале из файла SH.txt и ваш принтер станет K1C.
 После команды сделайте сброс до заводских, чтоб он сам все настроил.
-
+Проверено на прошивке 1.3.3.46
 
 To maintain the rigidity of the K1SE, the corners and stitching are not removed. 
 The chain is not used for better filament feed. 
@@ -34,5 +34,5 @@ You will need to purchase the following:
 
 Run the command in the terminal from the SH.txt file, and your printer will become a K1C.
 After the command, perform a factory reset so it can configure itself.
-
+Tested on firmware 1.3.3.46
 
